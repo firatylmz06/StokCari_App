@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806315226585",
+    "project_id": "stok-cari-19592",
+    "storage_bucket": "stok-cari-19592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806315226585:android:fa09491e939f9e7394d5c8",
+        "android_client_info": {
+          "package_name": "com.stok_cari.flutter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806315226585-1qhbfcb8dvfcmfubjk0sgtle6saemqnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvyOEP-dsG-4f6MqZj02RCvOAEHwIP82s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806315226585-1qhbfcb8dvfcmfubjk0sgtle6saemqnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
