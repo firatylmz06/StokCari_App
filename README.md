@@ -1,4 +1,3 @@
-# 3301456_203301096
+# StokCari_App
 
-Selçuk Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği Bölümü 3301456 ders kodlu Mobil Programlama dersi final sınavıdır.
-Fırat YILMAZ tarafından hazırlanmıştır.
+Flutter/Dart kullanarak geliştirdiğimiz Google Firebase tabanlı Cari ve Stok uygulaması, yetkili atamaları yaparak, stokları ekleme, silme ve güncelleme işlemlerini gerçekleştirebilmenizi ve müşteri hareketlerini takip edebilmenizi sağlar. Uygulama basit ve kullanımı kolaydır.
